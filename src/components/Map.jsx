@@ -28,7 +28,7 @@ const createCustomClusterIcon = (cluster) => {
 function Map() {
   return (
     <>
-      <div className=" py-20 px-10 max-w-4xl m-auto">
+      <div className=" py-10 max-w-8xl m-auto">
         <MapContainer
           className="h-screen"
           center={[41.8781, -87.6298]}
