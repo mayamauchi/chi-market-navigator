@@ -8,10 +8,3 @@
 body {
   background-color: #F5F1E8;
 }
-
-.search-input {
-  background-image: url('/images/magnifying-glass-icon-26762.png');
-  background-size:auto;
-  background-position: right;
-  background-repeat: none;
-}
